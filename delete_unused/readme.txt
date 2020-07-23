@@ -1,0 +1,1 @@
+从原始新词表phrases_ref3中去除乱码，结果写在text2.txt中
